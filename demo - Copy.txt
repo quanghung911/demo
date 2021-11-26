@@ -1,5 +1,7 @@
 xin chao 1
-git init
+git init		Tạo 1 git repo trong máy
 git add .
-git commit -m "3 commit"
+git commit -m "3 commit"	Lệnh commit + message
 git push -u origin main
+
+git status xem trang thái các file trong repo
